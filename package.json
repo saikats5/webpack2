@@ -1,0 +1,26 @@
+{
+  "name": "webpack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikats5/webpack2.git"
+  },
+  "author": "Saikat Saha <saikats_5@yahoo.co.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saikats5/webpack2/issues"
+  },
+  "homepage": "https://github.com/saikats5/webpack2#readme",
+  "dependencies": {
+    "webpack": "4.14.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "3.0.8"
+  }
+}
