@@ -14,3 +14,6 @@ issue in webpack:
 "scripts": {
     "build": "webpack"
 }
+
+"dev": "webpack -d --watch"//development mode with watch true
+"prod": "webpack -p"//production mode - minified version
