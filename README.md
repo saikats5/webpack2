@@ -21,3 +21,10 @@ issue in webpack:
 "prod": "webpack -p"//production mode - minified version
 
 HtmlWebpackPlugin is used to create dynamic index.html file inside dist folder
+
+css-loader is to load css in js file but as js file can't recognize css so using style-loader
+use(latest)/loaders(deprecated still in use) and , with array instead of ! can be used inside modules in webpack config
+
+webpack reads loader from the end of the array
+
+npm view extract-text-webpack-plugin versions //for check the versions
