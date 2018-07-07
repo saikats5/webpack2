@@ -29,3 +29,6 @@ webpack reads loader from the end of the array
 
 npm view extract-text-webpack-plugin versions //for check the versions
 npm view webpack-dev-server versions
+
+webpack writes bundle on the disk(inside dist folder)
+webpack-dev-server serves from the memory
