@@ -28,3 +28,4 @@ use(latest)/loaders(deprecated still in use) and , with array instead of ! can b
 webpack reads loader from the end of the array
 
 npm view extract-text-webpack-plugin versions //for check the versions
+npm view webpack-dev-server versions
